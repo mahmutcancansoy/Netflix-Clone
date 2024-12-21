@@ -23,7 +23,7 @@ function Hero() {
 
   return (
     <div className="flex relative gap-4">
-      <div className="w-full flex flex-col gap-4 absolute bottom-0 mb-32">
+      <div className="w-full flex flex-col gap-4 absolute bottom-0 mb-52">
         <h1 className="w-1/3 text-white text-8xl font-black px-16  drop-shadow-2xl">
           {randomItem.original_title}
         </h1>
